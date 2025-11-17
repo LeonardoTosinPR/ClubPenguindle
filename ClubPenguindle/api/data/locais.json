@@ -1,0 +1,281 @@
+[
+  {
+    "id": 1,
+    "nome": "Prainha",
+    "regiao": "Vila/Costa",
+    "tipo": "Exterior Principal",
+    "temMiniGame": true,
+    "personagensAssociados": ["Rockhopper"],
+    "anoLancamento": 2005
+  },
+  {
+    "id": 2,
+    "nome": "Farol",
+    "regiao": "Vila/Costa",
+    "tipo": "Interior Principal",
+    "temMiniGame": false,
+    "personagensAssociados": [],
+    "anoLancamento": 2005
+  },
+  {
+    "id": 3,
+    "nome": "Centro",
+    "regiao": "Central",
+    "tipo": "Exterior Principal",
+    "temMiniGame": false,
+    "personagensAssociados": ["Rookie", "Tia Arctic", "Gary"],
+    "anoLancamento": 2005
+  },
+  {
+    "id": 4,
+    "nome": "Loja de Presentes",
+    "regiao": "Central",
+    "tipo": "Interior Principal",
+    "temMiniGame": true,
+    "personagensAssociados": [],
+    "anoLancamento": 2005
+  },
+  {
+    "id": 5,
+    "nome": "Café",
+    "regiao": "Central",
+    "tipo": "Interior Secundário",
+    "temMiniGame": true,
+    "personagensAssociados": ["Tia Arctic"],
+    "anoLancamento": 2005
+  },
+  {
+    "id": 6,
+    "nome": "Redação",
+    "regiao": "Central",
+    "tipo": "Interior Secundário",
+    "temMiniGame": true,
+    "personagensAssociados": ["Tia Arctic"],
+    "anoLancamento": 2005
+  },
+  {
+    "id": 7,
+    "nome": "Boate",
+    "regiao": "Central",
+    "tipo": "Interior Principal",
+    "temMiniGame": true,
+    "personagensAssociados": ["Cadence"],
+    "anoLancamento": 2005
+  },
+  {
+    "id": 8,
+    "nome": "Plaza",
+    "regiao": "Central",
+    "tipo": "Exterior Principal",
+    "temMiniGame": false,
+    "personagensAssociados": [],
+    "anoLancamento": 2007
+  },
+  {
+    "id": 9,
+    "nome": "Pet Shop",
+    "regiao": "Central",
+    "tipo": "Interior Secundário",
+    "temMiniGame": true,
+    "personagensAssociados": ["PH"],
+    "anoLancamento": 2007
+  },
+  {
+    "id": 10,
+    "nome": "Pizzaria",
+    "regiao": "Central",
+    "tipo": "Interior Secundário",
+    "temMiniGame": true,
+    "personagensAssociados": [],
+    "anoLancamento": 2006
+  },
+  {
+    "id": 11,
+    "nome": "Estádio",
+    "regiao": "Central",
+    "tipo": "Exterior Principal",
+    "temMiniGame": true,
+    "personagensAssociados": [],
+    "anoLancamento": 2006
+  },
+  {
+    "id": 12,
+    "nome": "Estação de Esqui",
+    "regiao": "Montanha/Norte",
+    "tipo": "Exterior Principal",
+    "temMiniGame": true,
+    "personagensAssociados": ["Gary"],
+    "anoLancamento": 2005
+  },
+  {
+    "id": 13,
+    "nome": "Dojo",
+    "regiao": "Montanha/Norte",
+    "tipo": "Interior Principal",
+    "temMiniGame": true,
+    "personagensAssociados": ["Sensei"],
+    "anoLancamento": 2008
+  },
+  {
+    "id": 14,
+    "nome": "Dojo do Fogo",
+    "regiao": "Montanha/Norte",
+    "tipo": "Interior Secundário",
+    "temMiniGame": true,
+    "personagensAssociados": ["Sensei"],
+    "anoLancamento": 2009
+  },
+  {
+    "id": 15,
+    "nome": "Floresta",
+    "regiao": "Floresta/Leste",
+    "tipo": "Exterior Principal",
+    "temMiniGame": false,
+    "personagensAssociados": ["Sasquatch"],
+    "anoLancamento": 2006
+  },
+  {
+    "id": 16,
+    "nome": "Mina",
+    "regiao": "Floresta/Leste",
+    "tipo": "Exterior Principal",
+    "temMiniGame": true,
+    "personagensAssociados": [],
+    "anoLancamento": 2007
+  },
+  {
+    "id": 17,
+    "nome": "Caverna da Mina",
+    "regiao": "Floresta/Leste",
+    "tipo": "Interior Principal",
+    "temMiniGame": true,
+    "personagensAssociados": ["Gary", "Herbert P. Bear", "Klutzy"],
+    "anoLancamento": 2007
+  },
+  {
+    "id": 18,
+    "nome": "Icebergue",
+    "regiao": "Vila/Costa",
+    "tipo": "Exterior Principal",
+    "temMiniGame": true,
+    "personagensAssociados": [],
+    "anoLancamento": 2005
+  },
+  {
+    "id": 19,
+    "nome": "Caverna (Piscina)",
+    "regiao": "Subterrâneo",
+    "tipo": "Interior Principal",
+    "temMiniGame": true,
+    "personagensAssociados": [],
+    "anoLancamento": 2005
+  },
+  {
+    "id": 20,
+    "nome": "Dojo da Água",
+    "regiao": "Montanha/Norte",
+    "tipo": "Interior Secundário",
+    "temMiniGame": true,
+    "personagensAssociados": ["Sensei"],
+    "anoLancamento": 2010
+  },
+  {
+    "id": 21,
+    "nome": "Dojo da Neve",
+    "regiao": "Montanha/Norte",
+    "tipo": "Interior Secundário",
+    "temMiniGame": true,
+    "personagensAssociados": ["Sensei"],
+    "anoLancamento": 2011
+  },
+  {
+    "id": 22,
+    "nome": "Praia",
+    "regiao": "Vila/Costa",
+    "tipo": "Exterior Principal",
+    "temMiniGame": false,
+    "personagensAssociados": ["Rockhopper"],
+    "anoLancamento": 2005
+  },
+  {
+    "id": 23,
+    "nome": "Posto de Observação",
+    "regiao": "Vila/Costa",
+    "tipo": "Interior Secundário",
+    "temMiniGame": true,
+    "personagensAssociados": [],
+    "anoLancamento": 2005
+  },
+  {
+    "id": 24,
+    "nome": "Ancoradouro",
+    "regiao": "Vila/Costa",
+    "tipo": "Exterior Principal",
+    "temMiniGame": false,
+    "personagensAssociados": ["Rockhopper"],
+    "anoLancamento": 2005
+  },
+  {
+    "id": 25,
+    "nome": "Forte Nevado",
+    "regiao": "Central",
+    "tipo": "Exterior Principal",
+    "temMiniGame": false,
+    "personagensAssociados": [],
+    "anoLancamento": 2005
+  },
+  {
+    "id": 26,
+    "nome": "Cabana",
+    "regiao": "Montanha/Norte",
+    "tipo": "Interior Principal",
+    "temMiniGame": true,
+    "personagensAssociados": [],
+    "anoLancamento": 2005
+  },
+  {
+    "id": 27,
+    "nome": "Sótão",
+    "regiao": "Montanha/Norte",
+    "tipo": "Interior Secundário",
+    "temMiniGame": true,
+    "personagensAssociados": [],
+    "anoLancamento": 2005
+  },
+  {
+    "id": 28,
+    "nome": "Pátio do Dojo",
+    "regiao": "Montanha/Norte",
+    "tipo": "Exterior Secundário",
+    "temMiniGame": false,
+    "personagensAssociados": ["Sensei"],
+    "anoLancamento": 2008
+  },
+  {
+    "id": 29,
+    "nome": "Caldeira",
+    "regiao": "Subterrâneo",
+    "tipo": "Interior Secundário",
+    "temMiniGame": false,
+    "personagensAssociados": ["Gary", "Tia Arctic"],
+    "anoLancamento": 2005
+  },
+  {
+    "id": 30,
+    "nome": "Lago Secreto",
+    "regiao": "Subterrâneo",
+    "tipo": "Interior Secundário",
+    "temMiniGame": true,
+    "personagensAssociados": [],
+    "anoLancamento": 2007
+  },
+  {
+    "id": 31,
+    "nome": "Sala de Comando da EPF",
+    "regiao": "Agência",
+    "tipo": "Interior Secreto",
+    "temMiniGame": true,
+    "personagensAssociados": ["Gary", "Pinguim-Jato", "Dot", "Rookie"],
+    "anoLancamento": 2010
+  }
+]

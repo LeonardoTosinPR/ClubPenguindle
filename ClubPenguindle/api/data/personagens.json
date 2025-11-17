@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "nome": "Rockhopper",
+    "tipo": "Mascote",
+    "localPrincipal": "Navio Migrator",
+    "anoLancamento": 2006
+  },
+  {
+    "id": 2,
+    "nome": "Tia Arctic",
+    "tipo": "Mascote",
+    "localPrincipal": "Redação",
+    "anoLancamento": 2005
+  },
+  {
+    "id": 3,
+    "nome": "Gary, o Pinguim Inventor",
+    "tipo": "Mascote",
+    "localPrincipal": "Sala de Comando da EPF",
+    "anoLancamento": 2006
+  },
+  {
+    "id": 4,
+    "nome": "Sensei",
+    "tipo": "Mascote",
+    "localPrincipal": "Dojo",
+    "anoLancamento": 2008
+  },
+  {
+    "id": 5,
+    "nome": "Cadence",
+    "tipo": "Mascote",
+    "localPrincipal": "Boate",
+    "anoLancamento": 2007
+  },
+  {
+    "id": 6,
+    "nome": "Herbert P. Bear",
+    "tipo": "Vilão",
+    "localPrincipal": "Caverna da Mina",
+    "anoLancamento": 2007
+  },
+  {
+    "id": 7,
+    "nome": "Klutzy, o Caranguejo",
+    "tipo": "Vilão",
+    "localPrincipal": "Caverna da Mina",
+    "anoLancamento": 2007
+  },
+  {
+    "id": 8,
+    "nome": "Rookie",
+    "tipo": "Mascote",
+    "localPrincipal": "Sala de Comando da EPF",
+    "anoLancamento": 2011
+  },
+  {
+    "id": 9,
+    "nome": "PH, a Puffle Handler",
+    "tipo": "Mascote",
+    "localPrincipal": "Pet Shop",
+    "anoLancamento": 2011
+  }
+]
