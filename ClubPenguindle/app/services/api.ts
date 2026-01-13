@@ -1,29 +1,24 @@
 import { Location } from "../types";
-
-// !! IMPORTANTE !!
-// Verifique se esta URL está correta (http://localhost/api/index.php)
-const API_URL = "http://localhost/api/index.php";
+import locaisData from "../data/locais.json";
 
 /**
  * Busca a lista completa de todos os locais.
  */
 export const getAllMapLocations = async (): Promise<Location[]> => {
-  // ATUALIZADO: action=allMaps
-  const response = await fetch(`${API_URL}?action=allMaps`);
-  if (!response.ok) {
-    throw new Error("Falha ao buscar locais.");
-  }
-  return response.json();
+  return locaisData.map((local) => ({
+    ...local,
+    imageUrl: `/images/locais/${local.id}.png`,
+  }));
 };
 
 /**
- * Busca o local (desafio) do dia.
+ * Busca um local aleatório para o desafio do dia.
  */
 export const getDailyMapChallenge = async (): Promise<Location> => {
-  // ATUALIZADO: action=dailyMap
-  const response = await fetch(`${API_URL}?action=dailyMap`);
-  if (!response.ok) {
-    throw new Error("Falha ao buscar desafio do dia.");
-  }
-  return response.json();
+  const randomIndex = Math.floor(Math.random() * locaisData.length);
+  const selectedLocal = locaisData[randomIndex];
+  return {
+    ...selectedLocal,
+    imageUrl: `/images/locais/${selectedLocal.id}.png`,
+  };
 };
