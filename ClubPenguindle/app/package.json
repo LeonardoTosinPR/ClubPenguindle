@@ -2,7 +2,7 @@
   "name": "clubpenguindle",
   "version": "1.0.0",
   "main": "index.ts",
-  "homepage": "https://LeonardoTosinPR.io/ClubPenguindle",
+  "homepage": "https://LeonardoTosinPR.github.io/ClubPenguindle",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
