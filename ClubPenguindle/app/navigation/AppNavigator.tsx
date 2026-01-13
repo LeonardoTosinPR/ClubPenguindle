@@ -72,13 +72,13 @@ export default function AppNavigator() {
     >
       {/* Nossas três telas, agora com o botão customizado */}
       <Tab.Screen
-        name="Mapa"
-        component={MapaScreen}
+        name="Personagem"
+        component={PersonagemScreen}
         options={{ tabBarButton: CustomTabButton }}
       />
       <Tab.Screen
-        name="Personagem"
-        component={PersonagemScreen}
+        name="Mapa"
+        component={MapaScreen}
         options={{ tabBarButton: CustomTabButton }}
       />
       <Tab.Screen
